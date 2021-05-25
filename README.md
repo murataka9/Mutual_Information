@@ -1,6 +1,6 @@
 # mutual_inf
-2文章間の相互情報量計算用ライブラリ. This lib compute on Mutual Information from 2dox relation.
-For Report of Information Searching System Class from UT.
+2文章間の相互情報量計算用ライブラリ. This lib compute on Mutual Information from 2dox relation.   
+**For** Report of Information Searching System Class from UT.
 
 ## Usage
 - Lib import 'import mutual_inf'
