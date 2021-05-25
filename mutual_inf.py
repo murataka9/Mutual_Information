@@ -1,5 +1,6 @@
 ###### header begin ========================================
 ## Lib: mutual_inf :: 英意:相互情報量
+## ver: 1.0(beta)
 ## ---------------------------------------------------------
 ## Auther: Takahito Murakami (kami)
 ## Auther email: takahito@digitalnature.slis.tsukuba.ac.jp
