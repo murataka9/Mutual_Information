@@ -5,19 +5,23 @@ For Report of Information Searching System Class from UT.
 ## Usage
 - Lib import 'import mutual_inf'
 - Argument stlucture is here↓
-'''
+```
 mutual_inf(base, freqA, freqB, freqAB, total, significan)
-'''
+```
 
 ## Description Args
 ### Log Setting
-- base : Base of 'log' / preset is '10' / type is 'int'
+- base : Base of `log` / preset is `10` / type is `int`
 
 ### Words Freqs
-- freqA : Word appered freq of doc1 / preset is '1' / type is 'int'
-- freqB : Word appered freq of doc2 / preset is '1' / type is 'int'
-- freqAB : Words appered freqs of dox1&2 / preset is '1' / type is 'int'
-- total : total of dox / preset is '1' / type is 'int'
+- freqA : Word appered freq of doc1 / preset is `1` / type is `int`
+- freqB : Word appered freq of doc2 / preset is `1` / type is `int`
+- freqAB : Words appered freqs of dox1&2 / preset is `1` / type is `int`
+- total : total of dox / preset is `1` / type is `int`
 
 ### Roundding Setting
-- significan : 1 ~ 0.1 ~0.00...1 .. Rounding number of digits / preset is '1' / type is 'float'
+- significan : 1 ~ 0.1 ~0.00...1 .. Rounding number of digits / preset is `1` / type is `float`
+
+## Example
+You can use example from Colabolatory link:
+https://colab.research.google.com/drive/1dPkjom54qoabjVbun-KRQ5Ndj7sHEsF7?usp=sharing
